@@ -7,3 +7,5 @@ Sebastian Kolstad
 Marte Helene Johansen 
 
 Håkon Austvik Kristiansen
+
+Karoline Hamre 
