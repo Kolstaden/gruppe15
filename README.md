@@ -6,4 +6,7 @@ Sebastian Kolstad
 
 Marte Helene Johansen 
 
+Daniel Hodne Gundersen
+
 Håkon Austvik Kristiansen
+
