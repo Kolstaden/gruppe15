@@ -11,3 +11,7 @@ Daniel Hodne Gundersen
 Håkon Austvik Kristiansen
 
 Simen Kydland
+
+Karoline Hamre 
+
+
